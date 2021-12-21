@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 77.2311,
+    "lat": 28.6128
+  },
+  "weather": [
+    {
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
+      "icon": "50n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 10.09,
+    "feels_like": 9.14,
+    "temp_min": 10.09,
+    "temp_max": 10.09,
+    "pressure": 1018,
+    "humidity": 76
+  },
+  "visibility": 1600,
+  "wind": {
+    "speed": 0,
+    "deg": 0
+  },
+  "clouds": {
+    "all": 5
+  },
+  "dt": 1640030338,
+  "sys": {
+    "type": 1,
+    "id": 9165,
+    "country": "IN",
+    "sunrise": 1640050774,
+    "sunset": 1640087916
+  },
+  "timezone": 19800,
+  "id": 1261481,
+  "name": "New Delhi",
+  "cod": 200
+}
